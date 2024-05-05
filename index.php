@@ -8,9 +8,11 @@
 </head>
 <body>
     <header>
-        <table>
-            <tr><td><img src="img/FindME.svg" alt="" id="Logo"></td><button id="btn-login">Anmelden</button><td></td></tr>
-        </table> 
+        <ul>
+            <li ><img src="img/FindME.svg" alt="" id="Logo" style="
+            width: 150px;"></li>
+            <li><a href="login.php">Anmelden</a></li>
+        </ul>
     </header>
     <fieldset id="search">
         <input type="text" id="search_text" placeholder="Suche"><br>
@@ -24,7 +26,18 @@
     </fieldset>
     <main>
        <table id="results">
-        <tr><th>Datum</th><th>Produktbezeichnung</th><th>fundort</th><th>produktkategorie</th></tr> 
+        <tr><th>Datum</th><th>Produktbezeichnung</th><th>fundort</th><th>produktbeschreibung</th></tr>
+        <?php
+            include("connect.php");
+            $ergebnis = mysqli_query($db, "SELECT * FROM Gegenstand");
+            while($row = mysqli_fetch_object($ergebnis)){
+                if($row->ausgefasst==0){
+                    echo "<tr><td>";
+                    echo "$row->Datum_Sicherstellung</td><td>$row->Produktbezeichnung</td> <td>$row->Raum</td> <td>$row->produktbeschreibung</td>";
+                    echo "</tr>";
+                }
+            }
+        ?>
        </table>
     </main>
 </body>

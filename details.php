@@ -11,16 +11,7 @@
         <img src="img/FindME.svg" alt="" id="Logo">
         <button id="btn-login">Anmelden</button>
     </header>
-    <fieldset>
-        <input type="text" id="search_text" placeholder="Suche"><br>
-        <input type="date"id="search_date">
-        <select name="search_category" id="search_category">
 
-        </select>
-        <select name="search_room" id="search_room">
-
-        </select>
-    </fieldset>
     <main>
        <table id="results">
         <tr><th>Datum</th><td>14.04.2024</td></tr>
