@@ -12,6 +12,7 @@
             <li ><img src="img/FindME.svg" alt="" id="Logo" style="
             width: 150px;"></li>
             <li><a href="login.php">Anmelden</a></li>
+            <li><a href="form.php">Neu</a></li>
         </ul>
     </header>
     <fieldset id="search">
@@ -31,9 +32,9 @@
             include("connect.php");
             $ergebnis = mysqli_query($db, "SELECT * FROM Gegenstand");
             while($row = mysqli_fetch_object($ergebnis)){
-                if($row->ausgefasst==0){
+                if($row->Ausgefasst==0){
                     echo "<tr><td>";
-                    echo "$row->Datum_Sicherstellung</td><td>$row->Produktbezeichnung</td> <td>$row->Raum</td> <td>$row->produktbeschreibung</td>";
+                    echo "$row->Datum_Sicherstellung</td><td>$row->Produktbezeichnung</td> <td>$row->Raum</td> <td>$row->Produktbeschreibung</td>";
                     echo "</tr>";
                 }
             }

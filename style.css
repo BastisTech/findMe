@@ -10,7 +10,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #500;
   }
   
   li {
@@ -53,7 +53,6 @@ main{
 #login{
     margin: 30%;
     justify-items: center;
-}
-#btn-login{
     float: right;
 }
+
