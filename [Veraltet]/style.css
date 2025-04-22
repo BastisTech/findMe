@@ -1,0 +1,58 @@
+body{
+
+    flex-direction: column;
+    margin: 0%;
+    justify-content: center;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #500;
+  }
+  
+  li {
+    float: left;
+  }
+  
+ li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+ a:hover {
+    background-color: #111;
+  }
+main{
+    flex-direction: row;
+    margin-top: 50px;
+    justify-content: center;
+    margin-left: 45%;
+    margin-right:45%;
+}
+#Logo{
+    width: 50px;
+    height: auto;
+}
+#results-description{
+    margin-left: 45%;
+    margin-right: 45%;
+}
+#search{
+    flex: 50%;
+    justify-self: center;
+    margin-left: 45%;
+    margin-right:45%;
+}
+#login{
+    margin: 30%;
+    justify-items: center;
+    float: right;
+}
+
