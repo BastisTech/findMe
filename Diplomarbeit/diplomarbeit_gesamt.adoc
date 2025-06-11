@@ -18,15 +18,15 @@ toc::[]
 // Füge die Arbeit jedes einzelnen ein.
 // WICHTIG: Nach jedem include muss eine Leerzeile sein!
 
-include::diplomarbeit_themenstellung.adoc[]
+include::fenusz/diplomarbeit_themenstellung.adoc[]
 
-// include::diplomarbeit_themenstellung_nachname1.adoc[]
+include::ilicin/diplomarbeit_themenstellung.adoc[]
 
-// include::diplomarbeit_themenstellung_nachname2.adoc[]
+include::nadrasky/diplomarbeit_themenstellung.adoc[]
 
-// include::diplomarbeit_themenstellung_nachname3.adoc[]
+include::stiller/diplomarbeit_themenstellung.adoc[]
 
-// include::diplomarbeit_themenstellung_nachname4.adoc[]
+include::wagner/diplomarbeit_themenstellung.adoc[]
 
-// Hier kannst du ggf. Anhänge aus externen Quellen laden.
-// image::diplomarbeit_anhang.pdf[pages=1..99]
+
+
