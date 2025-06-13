@@ -1,6 +1,6 @@
 # Informationen zur Ausarbeitung
 
-Command zur Konvertierung adoc/pdf: `<code>`convert_adoc diplomarbeit_gesamt.adoc diplomarbeit_gesamt.pdf`</code>`
+Command zur Konvertierung adoc/pdf: '''convert_adoc diplomarbeit_gesamt.adoc diplomarbeit_gesamt.pdf'''
 
 # Informationen zu Gebundener Diplomarbeit
 
