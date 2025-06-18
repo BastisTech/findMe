@@ -3,23 +3,134 @@
 [.lead]
 Vergleich klassischer und agiler Projektmanagement-Methoden: Effizienz, Flexibilität und Praxistauglichkeit in modernen IT-Projekten
 
-=== Klassisches Projektmanagement: Das Wasserfallmodell
-==== Beschreibung des Methode
-=== Agiles Projektmanagement: Scrum und Kanban
-=== Vergleich der Methoden
-=== Fazit und Ausblick
-=== Literaturverzeichnis
-[.table]
-|===
-| Titel | Autor |  Jahr | Verlag | ISBN
+=== Einleitung
+In dieser unseren Welt, in der wir uns als Menschen immer schneller weiterentwickeln müssen , ist es immer wichtiger nicht nur für Unternehmen, sondern für alle Menschen, Ihre Projekte so effizient und flexibel wie möglich zu organisieren. Stetig wechselnde Anforderungen und Umstände machen es nötig dass die art wie ein Projekt organisiert wird ebenfalls immer flexibler und effizienter wird. Hierdurch stellt sich immer wieder die Frage: Was ist heutzutage besser? Klassische Hierachische oder Modern und Agiles Projektmanagement +
 
-|===
-=== Abbildungen
-[.table]
-|===
-| Abbildung | Beschreibung | Link (Wenn Online)
+=== Klassisches Projektmanagement: Das Wasserfallmodell +
+Im klassischen Projektmanagement sind die Rollen klar geregelt und jeder hat seine Aufgabe im Projekt. Eines der berühmesten Modelle zum *"Klassischen"* Projektmanagement ist das Wasserfallmodel (vgl. <<classic, 1>>) +
 
-|===
+==== Beschreibung des Methode +
+Bei dem Wasserfallmodell handelt es sich um ein sequentielles Vorgangsmodell, welches in Phasen eingegliedert ist. Das Modell ist sequenziell augebaut, gemeint ist damit, dass die einzelnen Phasen des Projektes größtenteils nacheinander abgearbeitet werden muss um das Projekt erfolgreich zum Erfolg zu bringen. Das Model wird deshalb als Wasserfall bezeichnet, da die Darstellung einem Wasserfall sehr stark ähnelt. (vgl. <<wasserfall, 2>>) 
+
+==== Phasen des Wasserfallmodells (vgl. <<phasen_wasserfall, 4>>) 
+
+Das Wasserfallmodell besteht aus sechs Phasen, welche sequentiell durchgelaufen werdden müssen. Die Phasen sind: 
+
+image::Wasserfallmodell.svg[width=100%]
+(img. <<wasserfall_svg, 1>>)
+
+===== Anforderungsanalyse 
+In dieser Phase werden die Anforderungen an das Projekt gesammelt und dokumentiert. Wichtig ist, dass alle Anforderungen und Ziele des Projektes und die Organisation klar, deutlich und für alle Parteien verständlich formuliert sind um Missverständisse oder Interpretationsspielraum nicht aufkommen zu lassen. 
+
+Eine gute herangehensweise ist es, die Ziele des Projektes mit Hilfe des SMART-Abfrageschema zu formulieren. 
+
+**S**pezifisch: Die Ziele sollten klar und eindeutig formuliert sein. +
+**M**essbar: Die Ziele sollten eine Messbare Komponete enthalten um einen Projekfortschritt erfassen zu können +
+**A**ttraktiv: Die Ziele sollten für alle Beteiligten attraktiv und motivierend sein. +
+**R**ealistisch: Die Ziele sollten realistisch und erreichbar sein. +
+**T**erminiert: Die Ziele sollten einen klaren Zeitrahmen haben, um den Fortschritt des Projektes zu verfolgen. +
+(vgl. <<smart, 3>>)
+
+===== Entwurf
+In dieser Phase wird das Konzept für das Projekt erstellt. Hierbei werden die Anforderungen und Ziele des Projektes in ein machbares Konzept umgesetzt. Zuerst wird eine Machbarkeitsanalyse durchgeführt um zu prüfen, ob die Ziele des Projektes mit den vorhandenen Ressourcen erreicht werden kann. Anschließend wird mit diesen Ergebnissen ein Konzept erstellt, welches die Anforderungen und Ziele enthält, welche mit einer höheren Sicherheit erreicht werden können. 
+
+====== Resoucen 
+Ressourcen sind generell alle Mittel, die für die Erfüllung eines Projektes zur verfügung stehen. 
+Diese Resourcen werden generell in drei Kategorien eingestuft: +
+* **Personelle Ressourcen**: Alle Personen, die an dem Projekt beteiligt sind. Hierzu zählen sowohl die Projektmitarbeiter, als auch die Stakeholder und das Management. +
+* **Sachliche Ressourcen**: Alle Werkzeuge, Maschinen, Materialien, Infrastruktur und Software-Tools, welche für eine reiblungslose Abwickelung des Projektes zur Verfügung stehen. +
+* **Finanzielle Ressourcen**: Das ist das Budget, also das Geld, welches oft vom Auftraggeber oder oberen Management zur Verfügung gestellt wird, um das Projekt zu finanzieren. Hierbei ist es wichtig, dass das Budget immer eher höher angesetzte wird, als eigentlich erforderlich ist, da man nie genau von Anfang an mit 100%iger Sicherheit sagen kann, ob nicht etwas unvorhergesehenes eintritt und das Budget übersteigt. Eine Regel an dieser Stelle ist grundsätzlich Murphy´s Gesetz. Dieses beschreibt, dass auch wenn man glaubt alles bedacht zu haben, wird immer etwas passieren, was die Planung über den Jordan gehen lässt. 
+
+==== Implementierung
+Das ist die eigentliche Arbeit am Projekt. Hier werden die Anforderungen und Ziele des Projektes nach den Qualitätsstandards des Projektes so umgesetzt, wie es im Konzept vom Auftraggeber abgesegnet wurde. In dieser Phase wird also das Produkt erstellt, welches am Ende des Projektes vom Auftraggeber abgenommen und an den Kunden übergeben wird. Hier ist es wichtig regelmäßige Meetings mit dem Auftraggeber und den Stakeholdern zu haben, um den Fortschritt des Projektes zu überwachen und gegebenenfalls Maßnahmen zu ergreifen, wenn etwas nicht nach Plan läuft. Ein gutes Hilfsmittel hierfür ist der Statusbericht mit einer Meilensteintrendanalyse. Hierbei wird der Fortschritt des Projektes anhand der Meilensteine des Projektes dokumentiert und es wird geschaut, ob die Meilensteine im Zeitplan liegen oder ob es zu Verzögerungen oder Vorsprüngen kommt. 
+
+==== Test 
+In dieser Phase wird das Produkt, welches in der Implementierungsphase erstellt worden ist, auf die funktionalen und qualitativen Anforderungen des Projektes getestet. Hier wird geprüft, ob das Produkt den Anforderungen und Zielen des Projektes, welche vom Auftraggeber vorgegeben wurden, entspricht. Hierbei ist es wichtig, dass die verschiedenen Abschnitte des Produktes einzeln getestet werden und anschließend das gesamte Produkt und das Zusammenspiel der einzelnen Abschnitte miteinander getestet wird. Dies wird oft in der Form von Komponententests, Integrationstests und Systemtests durchgeführt. 
+Zu jedem dieser Tests muss ein Testprotokoll erstellt werden, welches die Anforderungen und Ergebnisse der Tests dokumentiert. Diese Protokolle sind wichtig, um später nachweisen zu können, dass alle Anforderungen und Qualitätsstandards des Produktes, welche vom Auftraggeber vorgegeben wurden, erfüllt sind. Dies ist wichtig, um sagen zu können, dass das Produkt bei der Übergabe an den Kunden keine Mängel aufweist. 
+
+==== Abnahme
+Bei der Abnahme wird das Produkt vom Auftraggeber auf die Erfüllung der Qualitätsanforderungen und der Ziele des Projektes geprüft. Hierbei wird das Produkt auf die Funktionalität, die Qualität und die Erfüllung der Anforderungen getestet. Wenn das Produkt diesen Anforderungen entspricht, wird es vom Auftraggeber abgenommen und zur Inbetriebnahme oder zur Übergabe an den Kunden freigegeben. Hierbei ist es wichtig, ein Abnahmeprotokoll zu erstellen, welches dokumentiert, welche Anforderungen und Qualitätsmerkmale das Produkt aufweisen muss, um abgenommen zu werden. Des Weiteren wird in diesem Protokoll dokumentiert, welche Anforderungen und Qualitätsmerkmale das Produkt tatsächlich erfüllt oder nicht erfüllt. Abschließend wird das Protokoll vom Auftraggeber und dem Projektleiter unterschrieben, um von beiden Parteien zu bestätigen, dass das Produkt den Anforderungen und Qualitätsmerkmalen eben entspricht oder nicht entspricht und welche Maßnahmen gegebenenfalls ergriffen werden müssen, um das Produkt den Anforderungen und Qualitätsmerkmalen anzupassen und dadurch die Abnahme erfolgreich durchzuführen. Ist dies der Fall, wird das Produkt an den Kunden übergeben und das eigentliche Projekt gilt als abgeschlossen. 
+
+==== Inbetriebnahme
+In dieser Phase, welche grundsätzlich nicht mehr in die eigentliche Projektarbeit fällt, wird das Produkt in Betrieb genommen und kommt somit in den produktiven Einsatz. Hierbei kommt es oft zu Einschulungen und Workshops, um die Mitarbeiter des Kunden mit dem Produkt vertraut zu machen und die mögliche Umstellung von einem alten Produkt auf das neue zu gewährleisten. Hierbei ist es wichtig, dass die Mitarbeiter des Kunden das neue Produkt verstehen und damit arbeiten können. Oftmals werden auch Schulungsunterlagen erstellt, um den Mitarbeitern des Kunden die Arbeit mit dem neuen Produkt zu erleichtern.
+
+(vgl. <<phasen_wasserfall, 4>>) 
+
+==== Rollen und Verantwortlichkeiten +
+Im klassischen Projektmanagement sind die Rollen und Verantwortlichkeiten klar und Hierarchisch geregelt. Grundsätzlich gibt es neun Rollen, welche in einem "klassisch" geführtem Projekt vorkommen können. Hier ist jedoch zu beachten, dass viele dieser Rollen bei kleineren Projekten nicht vorkommen oder vom Projektleiter übernommen werden. 
+Diese Rollen sind: +
+* **Projektauftraggeber**: Der AuftraggeberIn ist die Person oder Organisation, die das Projekt in Auftrag gibt und die finanziellen Mittel bereitstellt. Er ist derjenige der als einziger sagen kann ob das Projekt geglückt ist oder als gescheitert wird und somit als Verlust abgeschrieben wird.  +
+Er ist derjenige, welcher gewisse Dokumente, wie Projektauftrag, Lasten und Pflichtenheft und das Abnahmeprotokoll absegnet und somit die Grundlage für das Projekt schafft. +
+* **Projektleiter**: Der Projektleiter/Die Projektleiterin ist die Person, die das Projekt leitet und die Verantwortung für die Planung, Durchführung und Kontrolle des Projektes trägt. Er ist derjenige, welcher das Projektteam führt und die Kommunikation zwischen dem Auftraggeber und dem Projektteam sicherstellt. +
+* ** Der Teilprojektleiter/Abschnittsleiter**: Der TeilprojektleiterIn oder auch als AbschnittsleiterIn bezeichnet, ist ein Teammitglied, welches, gerade bei sehr großen Projekten mit vielen Abschnitten, die Verantwortung für seinen Abschnitt des Projektes trägt. Er ist also eine Verlängerung des Projektleiters und hat die selben Aufgaben und Privilegien wie der Gesamtprojektleiter, jedoch eben nur für seinen Abschnitt des Projektes. Diese Rolle ist vor aleem wichtig, wenn die einzelnen Abschnittsteams nicht direkte Kommunikation mit dem Projektleiter haben oder das Projekt eine Größe aufweist, bei der es für den Projektleiter nicht mehr zumutbar ist, alle Teammitglieder zu führen. Diese Rolle fällt bei kleineren Projekten generell weg. +
+* **Der Qualitätsmanager**: Der QualitätsmanagerIn ist die Person in einem Projektteam, welche die Verantwortung für die Qualität des Endproduktes trägt. Er ist also dafür verantwortlich, dass das Produkt den Anforderungen und Qualitätsmerkmalen des Projektauftraggebers entspricht und die Abname des Produktes sichergestellt werden kann. Er kontrolliert laufend die Qualität des Produktes und kann bei Bedarf Maßnahmen ergreifen, um die Qualität des Produktes, laut Lastenheft sicherzustellen. +
+* **Der Projektkaufmann**: Der Projektkaufmann/Die Projektkauffrau ist die Person im Projektteam, welche das Budget des Projektes verwaltet und vor allem überwacht. Er stellt also sicher, dass das Projekt im Rahmen des Budgets bleibt und somit ein scheitern des Projektes aufgrund von wegfallenden Finanziellen Ressourcen nicht eintritt. In dieser Rolle muss der PKM immer das Budget im Auge behalten und wenn nötig, Maßnahmen ergreifen, um entweder das Budget zu erhöhen, die Kosten zu senken oder das Projekt als gescheitert zu erklären, wenn das Budget nicht mehr gerettet werden kann. +
+* **Der Projektcontroller**: Ähnlich wie der Projektkaufmann, ist der Projektcontroller/Die Projektcontrollerin dafür verantwortlich, dass das Projekt zustande kommt. Der Unterschied ist, dass der Projektcontroller/Die Projektcontrollerin nicht das Budget im Auge hat, sondern die Termine und Meilensteine des Projektes. Er ist also für den generellen Fortschritt des Projektes verantwortlich und stellt sicher, dass das Projekt zum ausgemachten Zeitpunkt fertiggestellt werden kann. Hierbei ist es wichtig zu erwähnen, dass der Projektcontroller/Die Projektcontrollerin ebenfalls das Projekt als gescheitert erklären kann, wenn die Termine und Meilensteine unter keinem Umstand mehr eingehalten werden können. Die Finale Entscheidung obliegt in beiden Fällen (Budget und Termine) jedoch immer dem Projektleiter bzw. dem Projektauftraggeber. +
+* **Die Prokjektbüromitarbeiter**: Die Projektbüromitarbeiter/Die Projektbüromitarbeiterin ist die Person im Projektteam, welche die administrativen Aufgaben des Projektes übernimmt. Hierzu zählen unter anderem die Dokumentation des Projektes, die Erstellung von Protokollen und Berichten, die Organisation von Meetings und die Kommunikation mit dem Auftraggeber und den Stakeholdern. Sie sind also für die gesamte Bürokratie verantwortlich und haben somit eine der **wichtigsten** Aufgaben da die Dokumentation des Projektes vorallem aufgrund der Rechtlichen Konsequenzen geben kann, wenn entweder die Dokumentation nicht vollständig ist oder etwas drinnen steht was nicht der Wahrheit entspricht. +
+* **Der Fachausschuss**: Der Fachausschuss ist die Zusammenkunft von Experten, welche aus allen beteiligten Abteilungen des Projektes besteht. Diese Experten sind für die fachliche Beratung des Projektteams verantwortlich und stellen sicher, dass das Projekt den fachlichen Anforderungen entspricht. Eine der wichtigsten Bereiche des Fachausschusses ist die Rechtsabteilung, Logistikabteilung. Diese beiden Bereiche sind wichtig, da sie in der Regel die meisten Probleme in einem Projekt verursachen können und wo sich das Projektteam am wenigsten auskennt. Der Fachausschuss ist also eine Art Expertenrat, welcher dem Projektteam beratend zur Seite steht und bei Bedarf auch Entscheidungen treffen kann, wenn es um fachliche Fragen geht. +
+
+===== Projektrollen Light (Abgespeckt)
+Bei kleineren Projekten, welche nicht die Größe und Komplexität eines gro0ßen Projektes aufweisen, werden oft nicht alle Rollen benötigt oder können zusammengefasst werden. Daraus resultiert die folgende Liste: +
+
+* **Projektauftraggeber**: Diese Rolle ist und Bleibt immer gleich, da der AuftraggeberIn die Person ist, ohne die kein Projekt zustande kommt. +
+* **Projektleiter**: Diese Rolle ist ebenfalls immer gleich, da der Projektleiter/Die Projektleiterin die Person ist, welche das Projekt leitet und die Verantwortung für die Planung, Durchführung und Kontrolle des Projektes trägt. +
+* **Projektteammitglied** : Diese Rolle ist einfach gesagt die Person, welche die eigentliche Arbeit am Projekt verrichtet. Sie ist also für die Umsetzung der Anforderungen und Ziele des Projektes verantwortlich. + 
+* **ProjektMitarbeiter**: Diese Rolle ist im Grunde der Fachausschuss. 
+
+==== Vor- und Nachteile +
+Grundsätzälich gibt hat alles seine Vor- und Nachteile. Das Wasserfallmodell ist hierbei keine Ausnahme. +
+
+===== Vorteile 
+**Klarheit und Struktur**: Das Wasserfallmodell bietet aufgrund seiner klaren hierarchischen Struktur eine hohe Klarheit und Struktur im Projektablauf. Alle Rollen und Verantwortlichkeiten sind klar definiert und es gibt sehr wenig Interpretationsspielraum. Jeder Beteiligte weiß genau, was er zu tun hat und welche Aufgaben er zu erfüllen hat. Dies führt zu einer hohen Effizienz im Projektablauf. +
+**Sicherheit**: Durch die klaren Anforderungen und Ziele des Projektes, welche in der Anforderungsanalyse, dem Lastenheft und final im Pflichtenheft festgehalten werden, ist das Wasserfallmodell sehr sicher. Wenn alle Ziele und Anforderungen dem SMART-Abfrageschema entsprechen, ist die Wahrscheinlichkeit für Interpretationsspielraum sehr gering und somit auch die Wahrscheinlichkeit für Missverständnisse und Fehler im Projektablauf. +
+**Zeitplansicherheit**: Dadurch dass das Wasserfallmodell ein sequentielles Vorgehensmodell ist, ist der Zeitplan des Projektes sehr sicher. +
+
+===== Nachteile 
+**Unflexibilität**: Das Wasserfallmodell ist aufgrund der Starren Struktur ist das Wegfallen von Teammitgliedern sehr unflexibel. Die Reaktionsfähigkeit bei solchen Ereignissen ist daher beeinträchtigt. +
+**Geringe Fehlererkennungsfähigkeit**: Aufgrund der Fixen Berichtszyklen werden Fehler oft erst sehr spät erkannt und können dann nur schwer behoben werden ohne Verzögerungen im Projektablauf zu verursachen. +
+**Hohe Komplexität**: Das Wasserfallmodell ist nicht geeignet für sehr komplexe Projekte, da man hier oft keine oder eine sehr geringe Planungssicherheit aufweisen kann. +
+**Hoher Dokumentationsaufwand**: Das Wasserfallmodell erfordert eine vielzahl an Dokumenten, welche für die Durchführung des Projektes notwendig sind. Diese Dokumente müssen erstellt, gepflegt und aktualisiert werden. Zusätzlich müssen diese Dokumente so geschrieben werden, dass sie für alle Beteiligten verständlich sind. Dies bedeutet, wenn das Projekt über mehrere Jahre und mit wechselnden Teammitgliedern und Stakeholdern aus möglicherweise verschiedenen Ländern durchgeführt werden soll, wächst die Dokumentation und muss auch übersetzt werden, wodurch die Dokumentation sich immer verdoppelt und der Aufwand immer komplizierter wird. + 
+**Keine Iterativität**: Das Wasserfallmodell ist ein sequentielles Verfahren, welches keine Iterationen vorsieht. Damit gemeint ist, dass das Projekt nicht es gibt keien Möglichkeit für Feedback- oder Korrekturschleifen. Ein tatsächliches Feedback ist erst nach der Beendigung des Projektes möglich, was zu einem erhöhten Risiko für Fehler und Unstimmigkeiten führt.   
+
+=== Agiles Projektmanagement: Scrum und Kanban +
+Gerade in der IT-Branche und in der Softwareentwicklung oder bei Projekten, die eine Hohe Flexibilität und Anpassungsfähigkeit erfordern, hat sich ein neueres Modell des Projektmanagements etabliert. Dieses Modell ist das Agile Projektmanagement. Hierbei gibt es nicht nur eine Methode, sondern Mehrere, wie zum Beispiel Extreme Programming (XP), Feature-Driven Development (FDD), Dynamische Systementwicklung (DSDM).
+
+==== Beschreibung des Methode +
+Beim Agilen Projektmanagement ist, anders als bei der Klassischen Projektmanagementmethode eine Moderne Variante, welches seinen Ursprung bereits im Jahr 1957, damals jedoch nur teilweise aber dann ab 1970 dann erst wirklich relevant und das vor allen im Bereich der Softwareentwicklung. Hierbei wird der Prozess, bei dem die Teams in kurzen aber Konzentrierten Projekteinheiten arbeiten, um flexibel auf veränderungen reagieren zu können.
+
+==== Phasen des Agilen Projektmanagements
+
+==== Rollen und Verantwortlichkeiten +
+Dadurch das es keine Definition für agiles Projektmanagement gibt, sondern verschiedene Frameworks wie zum Beispiel *Scrum*. +
+Bei diesem Framework gibt es drei große Rollen die Vergeben werden:
+
+**1. Produkt Owner** +
+**2. Scrum Master** +
+**3. Team** 
+
+==== Vor- und Nachteile +
+
+=== Vergleich der Methoden +
+
+=== Fazit und Ausblick +
+
+=== Quellen
+
+[bibliography]
+==== Literatur
+
+==== Internetquellen
+* [[classic, 1]] Klassisches Projektmanagement im Überblick, URL: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/ (abgerufen am 18.06.2025)
+
+* [[wasserfall, 1]] Das Wasserfallmodell einfach erklärt, projekte-leicht-gemacht.de,URL: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/wasserfallmodell/#:~:text=Das%20Wasserfallmodell%20ist%20ein%20lineares%20Vorgehensmodell%20im%20Projektmanagement.,grafisch%20oft%20in%20Form%20eines%20Wasserfalls%20dargestellt%20werden. (abgerufen am 18.06.2025)
+
+* [[smart, 3]] SMART-Regel/SMART-Methode, URL: https://www.orghandbuch.de/Webs/OHB/DE/OrganisationshandbuchNEU/4_MethodenUndTechniken/Methoden_A_bis_Z/SMART_Regel_Methode/SMART_Regel_Methode_node.html (abgerufen am 18.06.2025)
 
 
+* [[phasen_wasserfall, 4]] Phasen des Wasserfallmodells, URL: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/wasserfallmodell/#:~:text=Das%20Wasserfallmodell%20ist%20ein%20lineares%20Vorgehensmodell%20im%20Projektmanagement.,grafisch%20oft%20in%20Form%20eines%20Wasserfalls%20dargestellt%20werden (abgerufen am 18.06.2025)
 
+* [[agile, 5]] Die beliebtesten agilen Methoden im Überblick, URL: https://projekte-leicht-gemacht.de/blog/projektmanagement/agil/agile-methoden-ueberblick/ (abgerufen am 18.06.2025)
+* [[agile_2, 6]]Agiles Projektmanagement: Definition, Eckpfeiler, Fakten, URL: https://www.marketinginstitut.biz/blog/agiles-projektmanagement/#:~:text=Agiles%20Projektmanagement%20fand%20seinen%20Ursprung,Branche%20der%20Software%2DEntwicklung%20eingesetzt.
+
+==== Abbildungen
+* [[wasserfall_svg, 1]] Wasserfallmodell, URL: https://commons.wikimedia.org/wiki/File:Wasserfallmodell.svg (abgerufen am 18.06.2025)
