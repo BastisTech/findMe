@@ -8,6 +8,5 @@
 
 #### Informationen zu Sourcecode
 
-In diesem Dokument finden Sie einige Informationen zu unserem Projekt.
+#### Todo´s
 
-Funktionsweisen

@@ -18,11 +18,11 @@ toc::[]
 // Füge die Arbeit jedes einzelnen ein.
 // WICHTIG: Nach jedem include muss eine Leerzeile sein!
 
-include::fenusz/diplomarbeit_themenstellung.adoc[]
+image::fenusz/Relational_vs_NoSQL-Fenusz.pdf[pages=1..99]
 
 image::ilicin/Projektdokumentation-Ilicin.pdf[pages=1..99]
 
-include::nadrasky/diplomarbeit_themenstellung.adoc[]
+image::Nadrasky/Nadrasky_Diplomarbeit.pdf[pages=1..99]
 
 include::stiller/diplomarbeit_themenstellung.adoc[]
 
