@@ -1,3 +1,19 @@
+:doctype: book
+:toc: macro
+:source-highlighter: rouge
+:icons: font
+// Lade die entsprechende Kopfzeile (kopfzeile_diplomarbeit_aul, ..._hif oder ..._kolleg)
+:header_image: kopfzeile_diplomarbeit_aul.png
+:pdf-page-size: a4
+:toc-title: Inhaltsverzeichnis
+:lang: DE
+:hyphens:
+
+
+
+toc::[]
+
+<<< 
 == Themenstellung von Sebastian Stiller
 
 [.lead]

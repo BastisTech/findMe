@@ -26,7 +26,7 @@ include::nadrasky/diplomarbeit_themenstellung.adoc[]
 
 include::stiller/diplomarbeit_themenstellung.adoc[]
 
-include::wagner/diplomarbeit_themenstellung.adoc[]
+image::wagner/Wagner-Barrierefreiheit.pdf[pages=1..99]
 
 
 
