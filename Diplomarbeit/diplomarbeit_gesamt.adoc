@@ -20,7 +20,7 @@ toc::[]
 
 include::fenusz/diplomarbeit_themenstellung.adoc[]
 
-include::ilicin/diplomarbeit_themenstellung.adoc[]
+image::ilicin/Projektdokumentation-Ilicin.pdf[pages=1..99]
 
 include::nadrasky/diplomarbeit_themenstellung.adoc[]
 
