@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "lKv9skjJieVheb0YBI3ypR1d4mm0n8SRVnLL6lROLl0=",
+  "Source": "FindME.Application",
+  "BasePath": "_content/FindME.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FindME.Application\\wwwroot",
+      "Source": "FindME.Application",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\0820b050-1e47-4ce6-9ef6-8ea36356a1ac.JPG",
+      "SourceId": "FindME.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "RelativePath": "img/0820b050-1e47-4ce6-9ef6-8ea36356a1ac#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "es8hmhu1ub",
+      "Integrity": "viAh8k3S8iUlG81INZ+99s9du8UqzMEjKchDSJF8Ugk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\0820b050-1e47-4ce6-9ef6-8ea36356a1ac.JPG"
+    },
+    {
+      "Identity": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\28b19eee-e726-438b-aa15-28f16d7649f0.JPG",
+      "SourceId": "FindME.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "RelativePath": "img/28b19eee-e726-438b-aa15-28f16d7649f0#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kqduqz7wk0",
+      "Integrity": "DNcZBPmtrbBAmaXjzWSsVMzMDWqlWqXMQsOainNjXTM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\28b19eee-e726-438b-aa15-28f16d7649f0.JPG"
+    },
+    {
+      "Identity": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\45f42d32-7d65-4b11-80d2-4f4607ffd768.JPG",
+      "SourceId": "FindME.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "RelativePath": "img/45f42d32-7d65-4b11-80d2-4f4607ffd768#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g5b4kxhb65",
+      "Integrity": "dJlZsQzixMJo4Ie8gHLAbFmLvYFRezCf7uBHLF9OdJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\45f42d32-7d65-4b11-80d2-4f4607ffd768.JPG"
+    },
+    {
+      "Identity": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\503610bf-d04e-4ff1-86d6-f75f23dabc38.JPG",
+      "SourceId": "FindME.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "RelativePath": "img/503610bf-d04e-4ff1-86d6-f75f23dabc38#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8zxwtf5m1n",
+      "Integrity": "/OLv3jG27XbBc8OTL/qr/WRlPELjR1t2yxp1GofCd2g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\503610bf-d04e-4ff1-86d6-f75f23dabc38.JPG"
+    },
+    {
+      "Identity": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\81f4674e-b358-4929-89d2-c674202c60f3.png",
+      "SourceId": "FindME.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "RelativePath": "img/81f4674e-b358-4929-89d2-c674202c60f3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7lhyew2s54",
+      "Integrity": "dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\81f4674e-b358-4929-89d2-c674202c60f3.png"
+    },
+    {
+      "Identity": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\99a33f58-7cd4-4027-ab14-0908a1aeb09e.JPG",
+      "SourceId": "FindME.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "RelativePath": "img/99a33f58-7cd4-4027-ab14-0908a1aeb09e#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dl755ny25s",
+      "Integrity": "sTbKse2Fl3YJUgE8jm/Q6x1IfCaJrugoAQDCHoNDgkU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\99a33f58-7cd4-4027-ab14-0908a1aeb09e.JPG"
+    },
+    {
+      "Identity": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\bf7a134c-1a7e-43b2-9d22-4d64e8e69469.png",
+      "SourceId": "FindME.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "RelativePath": "img/bf7a134c-1a7e-43b2-9d22-4d64e8e69469#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7lhyew2s54",
+      "Integrity": "dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bf7a134c-1a7e-43b2-9d22-4d64e8e69469.png"
+    },
+    {
+      "Identity": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\e610eb8c-43ed-4d0b-b936-5f2ac35e9552.png",
+      "SourceId": "FindME.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\",
+      "BasePath": "_content/FindME.Application",
+      "RelativePath": "img/e610eb8c-43ed-4d0b-b936-5f2ac35e9552#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7lhyew2s54",
+      "Integrity": "dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\e610eb8c-43ed-4d0b-b936-5f2ac35e9552.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/0820b050-1e47-4ce6-9ef6-8ea36356a1ac.es8hmhu1ub.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\0820b050-1e47-4ce6-9ef6-8ea36356a1ac.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"viAh8k3S8iUlG81INZ+99s9du8UqzMEjKchDSJF8Ugk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "es8hmhu1ub"
+        },
+        {
+          "Name": "label",
+          "Value": "img/0820b050-1e47-4ce6-9ef6-8ea36356a1ac.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-viAh8k3S8iUlG81INZ+99s9du8UqzMEjKchDSJF8Ugk="
+        }
+      ]
+    },
+    {
+      "Route": "img/0820b050-1e47-4ce6-9ef6-8ea36356a1ac.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\0820b050-1e47-4ce6-9ef6-8ea36356a1ac.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"viAh8k3S8iUlG81INZ+99s9du8UqzMEjKchDSJF8Ugk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-viAh8k3S8iUlG81INZ+99s9du8UqzMEjKchDSJF8Ugk="
+        }
+      ]
+    },
+    {
+      "Route": "img/28b19eee-e726-438b-aa15-28f16d7649f0.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\28b19eee-e726-438b-aa15-28f16d7649f0.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNcZBPmtrbBAmaXjzWSsVMzMDWqlWqXMQsOainNjXTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNcZBPmtrbBAmaXjzWSsVMzMDWqlWqXMQsOainNjXTM="
+        }
+      ]
+    },
+    {
+      "Route": "img/28b19eee-e726-438b-aa15-28f16d7649f0.kqduqz7wk0.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\28b19eee-e726-438b-aa15-28f16d7649f0.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNcZBPmtrbBAmaXjzWSsVMzMDWqlWqXMQsOainNjXTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kqduqz7wk0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/28b19eee-e726-438b-aa15-28f16d7649f0.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNcZBPmtrbBAmaXjzWSsVMzMDWqlWqXMQsOainNjXTM="
+        }
+      ]
+    },
+    {
+      "Route": "img/45f42d32-7d65-4b11-80d2-4f4607ffd768.g5b4kxhb65.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\45f42d32-7d65-4b11-80d2-4f4607ffd768.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJlZsQzixMJo4Ie8gHLAbFmLvYFRezCf7uBHLF9OdJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5b4kxhb65"
+        },
+        {
+          "Name": "label",
+          "Value": "img/45f42d32-7d65-4b11-80d2-4f4607ffd768.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dJlZsQzixMJo4Ie8gHLAbFmLvYFRezCf7uBHLF9OdJU="
+        }
+      ]
+    },
+    {
+      "Route": "img/45f42d32-7d65-4b11-80d2-4f4607ffd768.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\45f42d32-7d65-4b11-80d2-4f4607ffd768.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJlZsQzixMJo4Ie8gHLAbFmLvYFRezCf7uBHLF9OdJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dJlZsQzixMJo4Ie8gHLAbFmLvYFRezCf7uBHLF9OdJU="
+        }
+      ]
+    },
+    {
+      "Route": "img/503610bf-d04e-4ff1-86d6-f75f23dabc38.8zxwtf5m1n.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\503610bf-d04e-4ff1-86d6-f75f23dabc38.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/OLv3jG27XbBc8OTL/qr/WRlPELjR1t2yxp1GofCd2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8zxwtf5m1n"
+        },
+        {
+          "Name": "label",
+          "Value": "img/503610bf-d04e-4ff1-86d6-f75f23dabc38.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/OLv3jG27XbBc8OTL/qr/WRlPELjR1t2yxp1GofCd2g="
+        }
+      ]
+    },
+    {
+      "Route": "img/503610bf-d04e-4ff1-86d6-f75f23dabc38.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\503610bf-d04e-4ff1-86d6-f75f23dabc38.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/OLv3jG27XbBc8OTL/qr/WRlPELjR1t2yxp1GofCd2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/OLv3jG27XbBc8OTL/qr/WRlPELjR1t2yxp1GofCd2g="
+        }
+      ]
+    },
+    {
+      "Route": "img/81f4674e-b358-4929-89d2-c674202c60f3.7lhyew2s54.png",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\81f4674e-b358-4929-89d2-c674202c60f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 17:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lhyew2s54"
+        },
+        {
+          "Name": "label",
+          "Value": "img/81f4674e-b358-4929-89d2-c674202c60f3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk="
+        }
+      ]
+    },
+    {
+      "Route": "img/81f4674e-b358-4929-89d2-c674202c60f3.png",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\81f4674e-b358-4929-89d2-c674202c60f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 17:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk="
+        }
+      ]
+    },
+    {
+      "Route": "img/99a33f58-7cd4-4027-ab14-0908a1aeb09e.dl755ny25s.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\99a33f58-7cd4-4027-ab14-0908a1aeb09e.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sTbKse2Fl3YJUgE8jm/Q6x1IfCaJrugoAQDCHoNDgkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dl755ny25s"
+        },
+        {
+          "Name": "label",
+          "Value": "img/99a33f58-7cd4-4027-ab14-0908a1aeb09e.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sTbKse2Fl3YJUgE8jm/Q6x1IfCaJrugoAQDCHoNDgkU="
+        }
+      ]
+    },
+    {
+      "Route": "img/99a33f58-7cd4-4027-ab14-0908a1aeb09e.JPG",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\99a33f58-7cd4-4027-ab14-0908a1aeb09e.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sTbKse2Fl3YJUgE8jm/Q6x1IfCaJrugoAQDCHoNDgkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 19:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sTbKse2Fl3YJUgE8jm/Q6x1IfCaJrugoAQDCHoNDgkU="
+        }
+      ]
+    },
+    {
+      "Route": "img/bf7a134c-1a7e-43b2-9d22-4d64e8e69469.7lhyew2s54.png",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\bf7a134c-1a7e-43b2-9d22-4d64e8e69469.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 17:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lhyew2s54"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bf7a134c-1a7e-43b2-9d22-4d64e8e69469.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk="
+        }
+      ]
+    },
+    {
+      "Route": "img/bf7a134c-1a7e-43b2-9d22-4d64e8e69469.png",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\bf7a134c-1a7e-43b2-9d22-4d64e8e69469.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 17:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk="
+        }
+      ]
+    },
+    {
+      "Route": "img/e610eb8c-43ed-4d0b-b936-5f2ac35e9552.7lhyew2s54.png",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\e610eb8c-43ed-4d0b-b936-5f2ac35e9552.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 17:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lhyew2s54"
+        },
+        {
+          "Name": "label",
+          "Value": "img/e610eb8c-43ed-4d0b-b936-5f2ac35e9552.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk="
+        }
+      ]
+    },
+    {
+      "Route": "img/e610eb8c-43ed-4d0b-b936-5f2ac35e9552.png",
+      "AssetFile": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\e610eb8c-43ed-4d0b-b936-5f2ac35e9552.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 17:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQRKNQ+qCT+8KQNFbT7m81cGLW5XTqFF2lBEPvvzHXk="
+        }
+      ]
+    }
+  ]
+}

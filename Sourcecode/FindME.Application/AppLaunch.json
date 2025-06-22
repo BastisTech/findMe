@@ -1,0 +1,15 @@
+{
+  "Users": [
+    {
+      "Username": "admin",
+      "PasswordHash": "AQAAAAIAAYagAAAAEMFaC69Z1u4BgqphQhbhJpW9m4ohsLmne/sqM44Xfyub8ndft1lJFCOLuQxYiBqVjA==",
+      "Role": "Admin"
+    },
+    {
+      "Username": "verwalter",
+      "PasswordHash": "AQAAAAIAAYagAAAAEI4P7sp9WSCLKUhwRhBQLqdMqj7EJ31omuoJrQlSLuVngFnMrUIAq17wWq7ar0Ffaw==",
+      "Role": "Verwalter"
+    }
+  ],
+  "MasterPasswordHash": "AQAAAAIAAYagAAAAELe/lZAtdy0UkubL1+BJjVOBP4RY/DdMiLp00DVZ6Sgs9JvhX3jYX0RbZ+fdkq7l6g=="
+}

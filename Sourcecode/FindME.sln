@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindME.Application", "FindME.Application\FindME.Application.csproj", "{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\0820b050-1e47-4ce6-9ef6-8ea36356a1ac.JPG",
+      "PackagePath": "staticwebassets\\img\\0820b050-1e47-4ce6-9ef6-8ea36356a1ac.JPG"
+    },
+    {
+      "Id": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\28b19eee-e726-438b-aa15-28f16d7649f0.JPG",
+      "PackagePath": "staticwebassets\\img\\28b19eee-e726-438b-aa15-28f16d7649f0.JPG"
+    },
+    {
+      "Id": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\45f42d32-7d65-4b11-80d2-4f4607ffd768.JPG",
+      "PackagePath": "staticwebassets\\img\\45f42d32-7d65-4b11-80d2-4f4607ffd768.JPG"
+    },
+    {
+      "Id": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\503610bf-d04e-4ff1-86d6-f75f23dabc38.JPG",
+      "PackagePath": "staticwebassets\\img\\503610bf-d04e-4ff1-86d6-f75f23dabc38.JPG"
+    },
+    {
+      "Id": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\81f4674e-b358-4929-89d2-c674202c60f3.png",
+      "PackagePath": "staticwebassets\\img\\81f4674e-b358-4929-89d2-c674202c60f3.png"
+    },
+    {
+      "Id": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\99a33f58-7cd4-4027-ab14-0908a1aeb09e.JPG",
+      "PackagePath": "staticwebassets\\img\\99a33f58-7cd4-4027-ab14-0908a1aeb09e.JPG"
+    },
+    {
+      "Id": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\bf7a134c-1a7e-43b2-9d22-4d64e8e69469.png",
+      "PackagePath": "staticwebassets\\img\\bf7a134c-1a7e-43b2-9d22-4d64e8e69469.png"
+    },
+    {
+      "Id": "D:\\Github\\FindMe_Repo\\FindME\\FindME.Application\\wwwroot\\img\\e610eb8c-43ed-4d0b-b936-5f2ac35e9552.png",
+      "PackagePath": "staticwebassets\\img\\e610eb8c-43ed-4d0b-b936-5f2ac35e9552.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.FindME.Application.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.FindME.Application.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.FindME.Application.props",
+      "PackagePath": "build\\FindME.Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.FindME.Application.props",
+      "PackagePath": "buildMultiTargeting\\FindME.Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.FindME.Application.props",
+      "PackagePath": "buildTransitive\\FindME.Application.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
