@@ -28,5 +28,11 @@ include::stiller/diplomarbeit_themenstellung.adoc[]
 
 image::wagner/Wagner-Barrierefreiheit.pdf[pages=1..99]
 
+image::ABA_Rechtliche_Erklärung_FindME.pdf[pages=1..99]
+
+image::ABA_Rechtliche_Erklärung_FindME.pdf[pages=1..99]
+
+image::
+
 
 

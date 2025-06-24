@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FindME\\findMe\\Sourcecode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}|FindME.Application\\FindME.Application.csproj|d:\\findme\\findme\\sourcecode\\findme.application\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}|FindME.Application\\FindME.Application.csproj|solutionrelative:findme.application\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}|FindME.Application\\FindME.Application.csproj|d:\\findme\\findme\\sourcecode\\findme.application\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C174F-D9D6-40E0-AB39-0CF5C54B55BF}|FindME.Application\\FindME.Application.csproj|solutionrelative:findme.application\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "D:\\FindME\\findMe\\Sourcecode\\FindME.Application\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "FindME.Application\\Services\\LocationService.cs",
+              "ToolTip": "D:\\FindME\\findMe\\Sourcecode\\FindME.Application\\Services\\LocationService.cs",
+              "RelativeToolTip": "FindME.Application\\Services\\LocationService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:36:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "D:\\FindME\\findMe\\Sourcecode\\FindME.Application\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "FindME.Application\\Services\\ItemService.cs",
+              "ToolTip": "D:\\FindME\\findMe\\Sourcecode\\FindME.Application\\Services\\ItemService.cs",
+              "RelativeToolTip": "FindME.Application\\Services\\ItemService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:26:39.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
