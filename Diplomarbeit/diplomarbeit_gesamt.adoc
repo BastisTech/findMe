@@ -12,11 +12,8 @@
 // Lädt das PDF, das aus der Wordvorlage erzeugt wurde, zu Beginn der Arbeit.
 image::diplomarbeit_intro.pdf[pages=1..99]
 
-// Schreibt das Inhaltsverzeichnis
 toc::[]
 
-// Füge die Arbeit jedes einzelnen ein.
-// WICHTIG: Nach jedem include muss eine Leerzeile sein!
 
 image::fenusz/Relational_vs_NoSQL-Fenusz.pdf[pages=1..99]
 
@@ -28,11 +25,31 @@ include::stiller/diplomarbeit_themenstellung.adoc[]
 
 image::wagner/Wagner-Barrierefreiheit.pdf[pages=1..99]
 
-image::ABA_Rechtliche_Erklärung_FindME.pdf[pages=1..99]
+image::Kooperationsvereinbarung_FindME.pdf[pages=1..99]
 
 image::ABA_Rechtliche_Erklärung_FindME.pdf[pages=1..99]
 
-image::
+image::Anforderungsspezifikation_FindME_v1.0.pdf[pages=1..99]
+
+image::FindME_Systemspezifikation_v0.8.pdf[pages=1..99]
+
+image::PHB_FindME_v1.0.pdf[pages=1..99]
+
+image::FindME_Statusbericht_I.pdf[pages=1..99]
+
+image::FindME_Statusbericht_II.pdf[pages=1..99]
+
+image::FindME_Statusbericht_III.pdf[pages=1..99]
+
+image::FindME_Statusbericht_IV.pdf[pages=1..99]
+
+image::FindME_Statusbericht_V.pdf[pages=1..99]
+
+image::FindME_MTA.pdf[pages=1..99]
+
+image::Abnahmeprotokoll_FindME.pdf[pages=1..99]
+
+image::FindME_Zeitaufzeichnungen.pdf[pages=1..99]
 
 
 
